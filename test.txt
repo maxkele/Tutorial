@@ -1,2 +1,6 @@
 This is a test file for the github tutorial
 exe.dee
+Name:          Max Keleher
+Rating:        10/10
+Smash Mains:   Little Mac, Cpt. Falcon, Luigi
+Coolness:      *ERROR UNQUANTIFIABLE*
